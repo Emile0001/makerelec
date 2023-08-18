@@ -1,12 +1,10 @@
-.topic,
-.sub-topic,
 p {
-  padding-top: 8px;
-  padding-bottom: 8px;
+  padding: 8px 0px;
 }
-
+h1,
 h2,
-h3 {
+h3,
+h4 {
   font-weight: 500;
-  font-size: large;
+  // padding: 8px 0px;
 }
